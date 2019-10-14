@@ -1,3 +1,9 @@
+This is a Work In Progress.
+
+This project is a developer friendly email editor and creator. Add HTML elements of your requirement simply by dragging and dropping them in your HTML. 
+
+This is based on Unlayer project [react-email-editor](https://github.com/unlayer/react-email-editor).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
